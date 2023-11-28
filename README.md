@@ -19,7 +19,7 @@ Detalhes sobre minha formação acadêmica, cursos relevantes e certificações.
 Informações para entrar em contato comigo, incluindo links para redes sociais e endereço de e-mail.
 
 - paulohenrique-95@hotmail.com
-- [www.linkedin.com/in/paulohenriquelima95](https://www.linkedin.com/in/paulohenriquelima95/)
+- [linkedin.com/in/paulohenriquelima95](https://www.linkedin.com/in/paulohenriquelima95/)
 
 ## Como Explorar:
 Você pode explorar este portfólio expansivo navegando pelo endereço [portfoliopaulohlima.netlify.app](https://portfoliopaulohlima.netlify.app)
