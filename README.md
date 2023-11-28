@@ -2,6 +2,7 @@
 Tecnologias Utilizadas:
 HTML
 CSS
+
 Seções:
 Sobre Mim: Breve introdução sobre quem sou, minha paixão pela Tecnologia, e meus objetivos profissionais.
 
